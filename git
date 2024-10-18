@@ -1,0 +1,18 @@
+[33mcommit a95c768926d7df262dd0925fdcc3d230a0346406[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: yesBibekaryal <yesbibekaryal@gmail.com>
+Date:   Fri Oct 18 14:06:14 2024 +1100
+
+    This is version 3
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 082927c..c79c74f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,6 +5,7 @@[m
+     <title>Title</title>[m
+     <p>This is just a test </p>[m
+     <p>Chnge of paragraph for version2</p>[m
+[32m+[m[32m    <p>Change of pargaphaph for version 3 for test use</p>[m
+ </head>[m
+ <body>[m
+ [m
